@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Talia Chait",
-    "section": "",
-    "text": "About Me!\nHi! My name is Talia Chait (she/her). I am a junior at Macalester College double majoring in Data Science and Psychology expected to graduate in May 2024.\n\n\nEducation\nMacalester College, St. Paul MN\nB.A. in Data Science and Psychology\nSept 2020 - May 2024"
-  },
-  {
     "objectID": "mysite/index.html",
     "href": "mysite/index.html",
     "title": "mysite",
@@ -21,20 +14,6 @@
     "text": "About this site"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Talia Chait",
-    "section": "Education",
-    "text": "Education\nMacalester College, St. Paul MN\nB.A. in Data Science and Psychology\nSept 2020 - May 2024"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -42,10 +21,10 @@
     "text": "No matching items"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Talia Chait",
-    "section": "Experience",
-    "text": "Experience\nput experience here"
+    "section": "",
+    "text": "About Me!\nHi! My name is Talia Chait (she/her). I am a junior at Macalester College double majoring in Data Science and Psychology expected to graduate in May 2024.\n\n\nEducation\nMacalester College, St. Paul MN\nB.A. in Data Science and Psychology\nSept 2020 - May 2024"
   }
 ]
