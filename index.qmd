@@ -1,0 +1,28 @@
+---
+title: "Talia Chait"
+about:
+  id: intro-heading
+  template: trestles
+  image: images/profilepic.jpg
+  image-shape: rectangle
+  links:
+    - icon: twitter
+      href: https://twitter.com/tchait_
+    - icon: github
+      href: https://github.com/tch8
+---
+### **About Me!**
+
+Hi! My name is Talia Chait (she/her). I am a junior at Macalester College double majoring in Data Science and Psychology expected to graduate in May 2024.
+
+### **Education**
+
+Macalester College, St. Paul MN 
+
+B.A. in Data Science and Psychology
+
+Sept 2020 - May 2024
+
+
+
+
