@@ -6,18 +6,31 @@ website:
   title: "Talia Chait"
   navbar:
     background: primary
-    left:
-      - href: index.qmd
-        text: Home
-      - projects.qmd
+    right:
+        - href: index.qmd
+          text: Home
+        - projects.qmd
+        - posts.qmd
+        - icon: twitter
+          href: https://twitter.com/tchait_
+        - icon: github
+          href: https://github.com/tch8
+    search: true
   page-footer:
-    left: |
+    left:
+      | 
       &copy; Talia Chait, 2023<br>
       All content licensed under <i class='bi-badge-cc'></i>
-      [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-    right: |
-      Site built with <a href='https://quarto.org/'>Quarto</a>
+      [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
+      | 
+      Site built with <a href='https://quarto.org/'>Quarto</a> 
 
+    right: 
+      - icon: twitter
+        href: https://twitter.com/tchait_
+      - icon: github
+        href: https://github.com/tch8
+      
 format:
   html:
     theme: sandstone

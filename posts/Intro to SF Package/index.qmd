@@ -1,0 +1,66 @@
+---
+title: "Introduction to SF in R"
+description: "A basic introduction to mapping and spatial visualizations in R with SF Package"
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Learning Guide
+about:
+  template: solana
+  image: featured.png
+---
+### **What is sf?** 
+
+The Simple Feature (sf) for R package is a new package that represents a change of gears from the sp package which is a package that has classes and methods for spatial data. The sf package allows a much more intuitive approach to mapping spatial data than the sp package. 
+
+Simple Features are data.frame objects and each row is one feature. A feature is an object with a geometry that describes where on Earth the feature is located. This contains both spatial and non-spatial attributes. For example, a feature might show both where a tree is located and what it’s height, color, and species are.
+
+An sf object may have one or more columns with data for each of the features, and a “special” column usually named “geometry” or “geom” (but can have any name) with the geometry of the feature (its type and coordinates). 
+
+This guide will introduce you to the sf package in R! 
+
+Our sources for other tutorials we referred to are at the bottom of this page (thanks, tutorials!). 
+
+Good luck and happy mapping!
+
+PLEASE NOTE: Weird things come into play when we have maps on a globe. You will likely encounter some errors when working with this learning guide. Please do not get discouraged/give up (we believe in you!). The best technique to solve the problem might be to look at the error message and search up what that error message means using the internet. Additionally, don’t hesitate to ask your peers!
+
+
+### **Resources**
+
+*We used data and some adapted techniques from the online textbook ‘Data Analysis and Visualization with R: Spatial’ by the Department of Geography and Environmental Science at Hunter College, New York (http://www.geo.hunter.cuny.edu/~ssun/R-Spatial/) and the tutorial ‘Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 1: Basics’ by Mel Moreno and Mathieu Basille (https://r-spatial.org/r/2018/10/25/ggplot2-sf.html). 
+
+Sources: 
+Find a cheat sheet for sf here. 
+
+Tutorials:
+Functions and explanations: https://r-spatial.github.io/sf/reference/ 
+
+Intro tutorial, textbook: : http://www.geo.hunter.cuny.edu/~ssun/R-Spatial/intro.html 
+
+Intro tutorial: https://heima.hafro.is/~einarhj/older/spatialr/pre_sf.html 
+
+Intro tutorial: https://r-spatial.org/r/2018/10/25/ggplot2-sf-2.html 
+
+Tutorial video: https://www.youtube.com/watch?v=hY04wDvs6KU&ab_channel=StatisticsNinja 
+
+Plotting methods: https://r-spatial.github.io/sf/articles/sf5.html 
+
+Mapping coordinates: https://r-spatial.github.io/sf/reference/st_transform.html 
+
+
+Other Resources: 
+https://rforjournalists.com/2021/01/01/five-useful-spatial-functions-from-the-sf-r-package/ 
+
+https://hub.arcgis.com/datasets/aed062e780ee4bf5b698c175910478c2/explore?location=27.953426%2C-83.092687%2C6.73 
+
+Documentation: https://cran.r-project.org/web/packages/sf/sf.pdf 
+
+https://autogis-site.readthedocs.io/en/2019/notebooks/L2/projections.html
+
+https://proj.org/usage/projections.html 
+
+
+Data: 
+https://hub.arcgis.com/datasets/aed062e780ee4bf5b698c175910478c2/explore?location=27.901453%2C-83.092687%2C6.73 
+

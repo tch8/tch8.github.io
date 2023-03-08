@@ -2,5 +2,11 @@
   {
     "listing": "/projects.html",
     "items": []
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/Intro to SF Package/index.html"
+    ]
   }
 ]
