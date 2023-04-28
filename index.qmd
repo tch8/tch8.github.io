@@ -25,8 +25,7 @@ about:
 
 ### education
 <div class="topbr">
-<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#325D88", a11y = "sem")` **BA in Data Science and Psychology**, *September 2020 - May 2024*</p>  
-<p class="custom-subtitle"> Macalester College, St. Paul, MN</p>
+<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#325D88", a11y = "sem")` **BA in Data Science and Psychology**, *September 2020 - May 2024*</p> <p class="custom-subtitle"> Macalester College, St. Paul, MN</p>
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------
@@ -36,5 +35,11 @@ about:
 <div class="topbr">
 <p class="custom-subtitle">`r fontawesome::fa("chart-bar", fill = "#325D88", a11y = "sem")` **Data Analyst, May 2021 - Sep 2022**</p>
 <p class="custom-subtitle2">Massachusetts Institute of Technology's AgeLab</p>  
+
+<p class="custom-subtitle">`r fontawesome::fa("desktop", fill = "#325D88", a11y = "sem")` **Summer Associate, June 2020 - Aug 2020**</p>
+<p class="custom-subtitle2">Massachusetts Institute of Technology's AgeLab</p>
+
+<p class="custom-subtitle">`r fontawesome::fa("users", fill = "#325D88", a11y = "sem")` **Summer Associate, July 2019 - Aug 2019**</p>
+<p class="custom-subtitle2">Massachusetts Institute of Technology's AgeLab</p>
 </div>
 
