@@ -8,15 +8,18 @@ website:
     background: primary
     right:
         - href: index.qmd
-          text: Home
+          text: home
         - projects.qmd
+          text: projects
         - posts.qmd
+          text: posts
         - icon: twitter
           href: https://twitter.com/tchait_
         - icon: github
           href: https://github.com/tch8
     search: true
   page-footer:
+    background: light
     left:
       | 
       &copy; Talia Chait, 2023<br>
@@ -35,6 +38,7 @@ format:
   html:
     theme: sandstone
     css: styles.css
+    mainfont: Nunito
     toc: true
 
 editor: visual
