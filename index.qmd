@@ -18,7 +18,7 @@ about:
 ---
 ### about me
 
-<p class="topbr">Hi there! My name is Talia Chait (pronounced "TALLY-a"). I am a current junior student - athlete at Macalester College double majoring in Data Science and Psychology expected to graduate in May 2024. I am seeking opportunities to contribute to teams creating actionable business insights in high-impact market opportunities, utilizing my skills, strengths, and interests in applying data science analytics.</p>
+<p class="topbr">Hi there! My name is Talia Chait (pronounced "TALLY-a"). I am a current senior student - athlete at Macalester College double majoring in Data Science and Psychology expected to graduate in May 2024. I am seeking opportunities to contribute to teams creating actionable business insights in high-impact market opportunities, utilizing my skills, strengths, and interests in applying data science analytics.</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,6 +32,9 @@ about:
 ### experience
 
 <div class="topbr">
+<p class="custom-subtitle">`r fontawesome::fa("chart-bar", fill = "#325D88", a11y = "sem")` **Digital Product Owner Intern, June 2023 - Aug 2023**</p>
+<p class="custom-subtitle2">Blue Cross Blue Shield of Massachusetts</p>  
+
 <p class="custom-subtitle">`r fontawesome::fa("chart-bar", fill = "#325D88", a11y = "sem")` **Data Analyst, May 2021 - Sep 2022**</p>
 <p class="custom-subtitle2">Massachusetts Institute of Technology's AgeLab</p>  
 
