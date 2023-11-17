@@ -32,7 +32,7 @@ about:
 ### experience
 
 <div class="topbr">
-<p class="custom-subtitle">`r fontawesome::fa("chart-bar", fill = "#325D88", a11y = "sem")` **Digital Product Owner Intern, June 2023 - Aug 2023**</p>
+<p class="custom-subtitle">`r fontawesome::fa("square-poll-vertical", fill = "#325D88", a11y = "sem")` **Digital Product Owner Intern, June 2023 - Aug 2023**</p>
 <p class="custom-subtitle2">Blue Cross Blue Shield of Massachusetts</p>  
 
 <p class="custom-subtitle">`r fontawesome::fa("chart-bar", fill = "#325D88", a11y = "sem")` **Data Analyst, May 2021 - Sep 2022**</p>
