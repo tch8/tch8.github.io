@@ -9,9 +9,9 @@ website:
     right:
         - href: index.qmd
           text: home
-        - projects.qmd
+        - href: projects.qmd
           text: projects
-        - posts.qmd
+        - href: posts.qmd
           text: posts
         - icon: twitter
           href: https://twitter.com/tchait_
