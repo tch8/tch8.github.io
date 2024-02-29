@@ -1,45 +1,41 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
 
 website:
   title: "Talia Chait"
   navbar:
-    background: primary
-    right:
+    left:
         - href: index.qmd
-          text: home
+          text: Home
         - href: projects.qmd
-          text: projects
+          text: Projects
         - href: posts.qmd
-          text: posts
+          text: Posts
+    right:
+        - icon: linkedin
+          href: https://www.linkedin.com/in/talia-chait-147464204/ 
         - icon: twitter
           href: https://twitter.com/tchait_
         - icon: github
           href: https://github.com/tch8
     search: true
   page-footer:
-    background: light
     left:
       | 
-      &copy; Talia Chait, 2023<br>
+      &copy; Talia Chait, 2024<br>
       All content licensed under <i class='bi-badge-cc'></i>
       [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
       | 
       Site built with <a href='https://quarto.org/'>Quarto</a> 
-
-    right: 
-      - icon: twitter
-        href: https://twitter.com/tchait_
-      - icon: github
-        href: https://github.com/tch8
       
 format:
   html:
-    theme: sandstone
-    css: styles.css
-    mainfont: Nunito
+    theme: [yeti, theme.scss]
     toc: true
+    code-overflow: wrap
 
 editor: visual
 
