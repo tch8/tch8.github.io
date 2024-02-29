@@ -1,8 +1,6 @@
 project:
   type: website
   output-dir: docs
-  render:
-    - "*.qmd"
 
 website:
   title: "Talia Chait"
@@ -23,19 +21,17 @@ website:
           href: https://github.com/tch8
     search: true
   page-footer:
-    left:
-      | 
+    left: | 
       &copy; Talia Chait, 2024<br>
       All content licensed under <i class='bi-badge-cc'></i>
       [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
-      | 
+      
+    right: |
       Site built with <a href='https://quarto.org/'>Quarto</a> 
       
 format:
   html:
     theme: [yeti, theme.scss]
     toc: true
-    code-overflow: wrap
 
 editor: visual
-
