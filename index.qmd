@@ -16,21 +16,15 @@ about:
       href: https://github.com/tch8
       text: GitHub
 ---
-
 ::: {#intro-heading}
 ## **Talia Chait**
-
 she/her/hers
 
-Hi there! My name is Talia Chait (pronounced "TALLY-a").
+Analyst @ Applied Marketing Science 
 
-I graduated Macalester College, magna cum laude, with a BA in Data Science and Psychology. I am seeking opportunities to contribute to teams creating actionable business insights in high-impact market opportunities, utilizing my skills, strengths, and interests in applying data science analytics.
+### Experience
 
-### **Education**
-
-`r fontawesome::fa("graduation-cap", fill = "#5C7D9B", a11y = "sem")` BA in Data Science and Psychology<br> 2024 \| Macalester College
-
-### **Experience**
+Analyst <br> June 2024 - Present \| Applied Marketing Science
 
 Digital Product Owner Intern<br> June 2023 - Aug 2023 \| Blue Cross Blue Shield of Massachusetts
 
@@ -40,8 +34,12 @@ Summer Associate<br> June 2020 - Aug 2020 \| Massachusetts Institute of Technolo
 
 Summer Associate<br> July 2019 - Aug 2019 \| Massachusetts Institute of Technology's AgeLab
 
+### Education
+
+BA in Data Science and Psychology<br> 2024 \| Macalester College
+
 :::
-### **Get in Touch**
+### Get in Touch
 **Email**: <a href='mailto:talia@chait.net'>talia@chait.net</a>
 
 
