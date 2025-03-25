@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Talia Chait"
 about:
   id: intro-heading
   template: trestles
@@ -16,15 +16,18 @@ about:
       href: https://github.com/tch8
       text: GitHub
 ---
-::: {#intro-heading}
-## **Talia Chait**
-she/her/hers
 
-Analyst @ Applied Marketing Science 
+::: {#intro-heading}
+Hi, thanks for visiting my website! My name is Talia and I use she/her pronouns.
+
+I specialize in working with teams to identify actionable business insights in high-impact market opportunities by applying data science and data analytics. I graduated magna cum laude with a Bachelor's degree in Data Science and Psychology from Macalester College in May 2024. While at Macalester, was 4-year member and 2-time captain of varsity women's tennis team.
+
+<br>
+:::
 
 ### Experience
 
-Analyst <br> June 2024 - Present \| Applied Marketing Science
+Analyst <br> June 2024 - Dec 2024 \| Applied Marketing Science
 
 Digital Product Owner Intern<br> June 2023 - Aug 2023 \| Blue Cross Blue Shield of Massachusetts
 
@@ -39,7 +42,13 @@ Summer Associate<br> July 2019 - Aug 2019 \| Massachusetts Institute of Technolo
 BA in Data Science and Psychology<br> 2024 \| Macalester College
 
 :::
+
+### About Me
+
+Outside of work, I enjoy staying active through tennis, ultimate frisbee, pickleball, and hiking. I also love to travel to experience new places and learn about different cultures! I am an avid Boston sports fan as well.
+
+:::
+
 ### Get in Touch
-**Email**: <a href='mailto:talia@chait.net'>talia@chait.net</a>
 
-
+**Email**: <a href='mailto:talia@chait.net'>talia\@chait.net</a>
