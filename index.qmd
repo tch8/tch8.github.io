@@ -18,7 +18,7 @@ about:
 ---
 
 ::: {#intro-heading}
-Hi, thanks for visiting my website! My name is Talia and I use she/her pronouns.
+Hi there! My name is Talia and I use she/her pronouns. 
 
 I specialize in working with teams to identify actionable business insights in high-impact market opportunities by applying data science and data analytics. I graduated magna cum laude with a Bachelor's degree in Data Science and Psychology from Macalester College in May 2024. While at Macalester, was 4-year member and 2-time captain of varsity women's tennis team.
 
@@ -43,7 +43,7 @@ BA in Data Science and Psychology<br> 2024 \| Macalester College
 
 ### About Me
 
-Outside of work, I enjoy staying active through tennis, ultimate frisbee, pickleball, and hiking. I also love to travel to experience new places and learn about different cultures! I am an avid Boston sports fan as well.
+Outside of work, I enjoy staying active through tennis, ultimate frisbee, pickleball, and hiking. I love traveling to experience new places and learn about different cultures! I am an avid Boston sports fan as well.
 
 ### Get in Touch
 
